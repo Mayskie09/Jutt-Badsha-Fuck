@@ -16,6 +16,8 @@ pkg install python2
 
 pip install bs4 
 
+pip install requests 
+
 git clone https://github.com/Shakibur-Cyber-King/Jutt-Badsha-Fuck.git
 
 cd Jutt-Badsha-Fuck
